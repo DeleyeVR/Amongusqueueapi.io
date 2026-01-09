@@ -1,0 +1,11 @@
+{
+  "lobbyId": "ABCD1234",
+  "gameState": "Lobby",
+  "players": [
+    { "name": "Player1", "status": "ready", "role": "crewmate" },
+    { "name": "Player2", "status": "not ready", "role": "impostor" },
+    { "name": "Player3", "status": "ready", "role": "crewmate" }
+  ],
+  "connectCodes": ["ABCD1234", "EFGH5678"],
+  "lastUpdated": "2026-01-09T20:30:00Z"
+}
